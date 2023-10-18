@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Python, Java, Machine Learning.**
+- 💬 Ask me about **Machine Learning.**
 
 - 📫 How to reach me **Zhreyas1@gmail.com**
 
