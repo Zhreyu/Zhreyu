@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MCTS based model**
 
-- 🌱 I’m currently learning **AlphaZero's working**
+- 🌱 I’m currently learning **RAG**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
