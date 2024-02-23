@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **EEG Analysis**
 
-- 💬 Ask me about **Machine Learning.**
+- 💬 Ask me about **Deep Learning.**
 
 - 📫 How to reach me **Zhreyas1@gmail.com**
 
