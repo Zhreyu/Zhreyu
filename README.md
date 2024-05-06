@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A Developer who is Deep into DL</h3>
 
-- 🔭 I’m currently working on **MHTR model**
-
 - 🌱 I’m currently learning **EEG Analysis**
 
 - 💬 Ask me about **Deep Learning.**
